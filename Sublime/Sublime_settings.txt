@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/DinkDonk (SL).tmTheme",
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"SublimeLinter-php",
+		"Vintage"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme"
+}

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bookmarks</title>
+    <script src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+</head>
+</head>
+<style type="text/css">
+</style>
+
+<body>
+    <div id="includedContent"></div>
+    <div class="container-fluid content" style="padding-bottom: 10px;padding-top: 10px;">
+        <h2 class="text-center">Bookmarks'n'Shit</h2>
+    </div>
+    <div class="container-fluid content" style="padding-bottom: 50px;">
+        <div class="col-md-4" id="j_col_bg_1">
+            <h3>Forums</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://krewgaming.com/forums/">KrewGaming</a>
+                <a class="btn btn-default" href="https://linustechtips.com/">LinusTechTips</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">MuroBBS</a>
+            </div>
+            <h3>Google</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://www.google.fi">Google</a>
+                <a class="btn btn-default" href="https://www.google.fi/maps">Maps</a>
+                <a class="btn btn-default" href="https://drive.google.com/drive/my-drive">Drive</a>
+                <a class="btn btn-default" href="https://photos.google.com">Photos</a>
+                <a class="btn btn-default" href="https://calendar.google.com/calendar">Calendar</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://hangouts.google.com">Hangouts</a>
+                <a class="btn btn-default" href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>
+                <a class="btn btn-default" href="https://www.youtube.com/?gl=FI">YouTube</a>
+                <a class="btn btn-default" href="https://translate.google.com">Translate</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>Social</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://twitter.com">Twitter</a>
+                <a class="btn btn-default" href="https://www.facebook.com">Facebook</a>
+                <a class="btn btn-default" href="https://www.messenger.com">Messenger</a>
+                <a class="btn btn-default" href="https://web.whatsapp.com">WhatsApp</a>
+            </div>
+            <h3>Weather</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://ilmatieteenlaitos.fi/saa/oulu">Oulu</a>
+                <a class="btn btn-default" href="http://ilmatieteenlaitos.fi/saa/sodankylä">Sodankyla</a>
+                <a class="btn btn-default" href="http://ilmatieteenlaitos.fi/saa/helsinki">Helsinki</a>
+                <a class="btn btn-default" href="http://ilmatieteenlaitos.fi/saa/romania/cluj-napoca">Cluj</a>
+            </div>
+        </div>
+        <div class="col-md-4" id="j_col_bg_2">
+            <h3>News</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://arstechnica.com/">Ars Technica</a>
+                <a class="btn btn-default" href="http://www.theverge.com/">The Verge</a>
+                <a class="btn btn-default" href="https://theoutline.com">The Outline</a>
+                <a class="btn btn-default" href="http://yle.fi/uutiset">Yle Uutiset</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://yle.fi/uutiset/osasto/news/">Yle News</a>
+                <a class="btn btn-default" href="http://www.theguardian.com/uk">The Guardian</a>
+                <a class="btn btn-default" href="https://www.vice.com">Vice</a>
+                <a class="btn btn-default" href="https://news.vice.com">Vice News</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://www.hs.fi/">HS.fi</a>
+                <a class="btn btn-default" href="http://www.anandtech.com/">AnandTech</a>
+                <a class="btn btn-default" href="http://www.pcper.com/">PC Per</a>
+                <a class="btn btn-default" href="http://www.hardware.fi/">Tom's Hardware</a>
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+        <div class="col-md-4" id="oamk_bloc">
+            <h3>OAMK</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" id="oamk" href="http://www.oamk.fi/fi/">OAMK</a>
+                <a class="btn btn-default" id="oamk" href="http://services.oamk.csc.fi/lukkarit/">Lukkari</a>
+                <a class="btn btn-default" id="oamk" href="https://oiva.oamk.fi/index.php?kirjautumisok">Oiva</a>
+                <a class="btn btn-default" id="oamk" href="https://outlook.office.com/owa/?realm=students.oamk.fi">MS Office</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" id="oamk" href="https://login.ezp.oamk.fi:2047/login?qurl=https%3a%2f%2fop.oamk.fi%3a8887%2fpls%2fasio%2fasio_uusiamk.paavalikko">ASIO</a>
+                <a class="btn btn-default" id="oamk" href="https://it.oamk.fi/">IT OAMK</a>
+                <a class="btn btn-default" id="oamk" href="http://www.oamk.fi/kirjasto/fi/">Library</a>
+                <a class="btn btn-default" id="oamk" href="https://moodle.oamk.fi/">Moodle</a>
+                <a class="btn btn-default" id="oamk" href="http://www.osakoweb.fi/">Osako</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" id="oamk" href="http://www.oamk.fi/opinto-opas/">Study Guide</a>
+                <a class="btn btn-default" id="oamk" href="https://optima.oamk.fi">Optima</a>
+                <a class="btn btn-default" id="oamk" href="https://mot.kielikone.fi/mot/oamk/netmot.exe">MOT</a>
+                <a class="btn btn-default" id="oamk" href="https://safeq/m/">SafeQ</a>
+                <a class="btn btn-default" id="oamk" href="https://www.students.oamk.fi/~t6kejo00/">t6kejo00</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" id="oamk" href="http://www.naturalprogramming.com">Natural Programming</a>
+                <a class="btn btn-default" id="oamk" href="http://www.naturalprogramming.com/web_programming.html">Web</a>
+                <a class="btn btn-default" id="oamk" href="http://www.oamk.fi/fi/tietoa-oamkista/yhteystiedot/kampukset/">Campuses</a>
+            </div>
+            <br />
+            <br />
+        </div>
+        <div class="col-md-4">
+            <h3>Stores</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://hinta.fi">Hinta.fi</a>
+                <a class="btn btn-default" href="https://www.jimms.fi">Jimm's PC Store</a>
+                <a class="btn btn-default" href="http://cdon.fi">CDON</a>
+                <a class="btn btn-default" href="https://www.systemastore.com">Systema Store</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://www.gigantti.fi">Gigantti</a>
+                <a class="btn btn-default" href="http://www.apple.com/fi-edu/shop">Apple Edu</a>
+                <a class="btn btn-default" href="https://www.data-systems.fi">Data Systems</a>
+                <a class="btn btn-default" href="https://murobbs.muropaketti.com/threads/sinae-hyoedyt-siitae-mitae-jimms-tietaeae.760477/">Jimm's BBS</a>
+            </div>
+                    </div>
+        <div class="col-md-4">
+            <h3>Art</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="https://unsplash.com">Unsplash</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">DeviantArt</a>
+                <a class="btn btn-default" href="https://www.flickr.com">Flickr</a>
+                <a class="btn btn-default" href="https://www.instagram.com">Instagram</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+            <h3>Podcasts</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">ATP</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Cortex</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Hello Internet</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">99% Invisible</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">Planet Money</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Varvet</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>YouTube</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">Subscriptions</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Joonikko</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">JK</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">LinusTechTips</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Z Reviews</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Zeos</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Hardware Canucks</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">PC Per</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+            <br />
+            <br />
+            <h4>Education</h4>
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">CGP Grey</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">SciShow</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Veritasium</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Periodic Videos</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">Computerphile</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Minute Physics</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Vsauce</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">CrashCourse</a>
+            </div>
+            <br />
+            <br />
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>Development</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="http://localhost:8888">localhost</a>
+                <a class="btn btn-default" href="http://localhost:8888/phpmyadmin/">phpMyAdmin</a>
+                <a class="btn btn-default" href="http://bootstrapdocs.com/v3.3.6/docs/css/">Bootstrap CSS</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">Continue</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>TEST</h3>
+            <div class="btn-group">
+                <a class="btn btn-default" href="___LINKtoPAGE___">__TITLE__</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">__TITLE__</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">__TITLE__</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">__TITLE__</a>
+                <a class="btn btn-default" href="___LINKtoPAGE___">__TITLE__</a>
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+    </div>
+    <div class="container-fluid content" style="padding-top: 50px; padding-bottom: 50px;">
+        <div class="container content">
+            <div class="col-md-12">
+                <h2>Other Links</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-6">
+                <h3>6 Wide</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-6">
+                <h3>6 Wide</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid content" style="color: white;background: #fc0058; padding-top: 50px; padding-bottom: 50px;">
+        <div class="container content">
+            <div class="col-md-12">
+                <h2>Other Links</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-6">
+                <h3>6 Wide</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="col-md-6">
+                <h3>6 Wide</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
