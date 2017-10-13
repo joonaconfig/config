@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.3.0">
+	<MenuStyle value="Win7"/>
+	<MenuDelay value="400"/>
+	<MainMenuAnimation value="None"/>
+	<FontSmoothing value="ClearType"/>
+	<SkinW7 value="Metro"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+		<Line>USER_IMAGE=1</Line>
+		<Line>SMALL_ICONS=0</Line>
+		<Line>LARGE_FONT=0</Line>
+		<Line>ICON_FRAMES=0</Line>
+		<Line>OPAQUE=1</Line>
+	</SkinOptionsW7>
+	<EnableStartButton value="0"/>
+	<StartButtonType value="CustomButton"/>
+	<SkipMetro value="1"/>
+	<DisableHotCorner value="DisableAll"/>
+</Settings>
