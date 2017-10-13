@@ -14,3 +14,13 @@ With PowerShell
 ```
 Set-ExecutionPolicy Bypass; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
+
+****
+
+**Reset network settings**
+
+`netsh winsock reset` 
+
+	ipconfig /flushdns
+	ipconfig /displaydns
+	
