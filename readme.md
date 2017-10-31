@@ -1,7 +1,7 @@
 
 ### macOS Software
 
-|  |  |  |  |
+| 1 | 2 | 3 | 4 |
 |:--|:--|:--|:--|
 | [Spark](https://sparkmailapp.com/) | [Enpass](https://www.enpass.io/) 
 | [Reeder](http://reederapp.com/) | [Discord](https://discordapp.com/) |
