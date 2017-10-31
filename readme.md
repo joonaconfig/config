@@ -1,7 +1,7 @@
 
 ### macOS Software
 
-| 1 | 2 | 3 | 4 |
+
 |---|---|---|---|
 | [Spark](https://sparkmailapp.com/) | [Enpass](https://www.enpass.io/) | [Reeder](http://reederapp.com/) | [Discord](https://discordapp.com/) |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | [Chrome](https://www.google.com/chrome/browser/desktop/index.html) | [Opera](http://www.opera.com/) | [IINA](https://github.com/lhc70000/iina) |
