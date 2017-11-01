@@ -1,0 +1,1 @@
+tell application "Finder"	set toolbar visible of the front Finder window to true	set the sidebar width of every Finder window to 120end tell
