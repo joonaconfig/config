@@ -1,0 +1,20 @@
+Activity Monitor.app
+Adobe Application Manager
+Adobe Installers
+AirPort Utility.app
+Audio MIDI Setup.app
+Bluetooth File Exchange.app
+Boot Camp Assistant.app
+ColorSync Utility.app
+Console.app
+Digital Color Meter.app
+Disk Utility.app
+Grab.app
+Grapher.app
+Keychain Access.app
+Migration Assistant.app
+Script Editor.app
+System Information.app
+Terminal.app
+Uninstall Razer Synapse.app
+VoiceOver Utility.app

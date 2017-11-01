@@ -1,0 +1,127 @@
+Adobe
+Adobe InDesign CC
+Adobe Lightroom
+Adobe Media Encoder CC
+Adobe Photoshop CC 2015
+Alfred 3.app
+App Store.app
+Arduino.app
+AreenaX.app
+Automator.app
+Backup and Sync.app
+Bartender 2.app
+Blackmagic Disk Speed Test.app
+CCleaner.app
+Calculator.app
+Calendar.app
+Chess.app
+ColorPicker.app
+Contacts.app
+Cookie.app
+CotEditor.app
+DVD Player.app
+DaisyDisk.app
+Dash.app
+Dashboard.app
+Dictionary.app
+Discord.app
+Divvy.app
+Doppel.app
+EasyFind.app
+Enigma.app
+Enpass.app
+EnpassPortable.app
+FaceTime.app
+Fileloupe.app
+Folx.app
+Font Book.app
+ForkLift.app
+GIMP.app
+GPG Keychain.app
+Gestimer.app
+GitHub Desktop.app
+GlobalProtect.app
+Google Chrome.app
+Google Earth Pro.app
+Hands Off!.app
+IINA.app
+Image Capture.app
+Install macOS High Sierra.app
+Irvue.app
+JPEGmini Pro.app
+Kaleidoscope.app
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+Keka.app
+Keyboard Maestro.app
+Keynote.app
+LaunchList.app
+Launchpad.app
+LittleIpsum.app
+Loading.app
+Locko.app
+MAMP
+Macs Fan Control.app
+Magnet Handler.app
+Mail.app
+Maps.app
+MenuBar Stats Plugins Manager.app
+MenuBar Stats.app
+Messages.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mission Control.app
+NameChanger.app
+NoMachine.app
+Notes.app
+Numbers.app
+OCRKit.app
+Octave.app
+Pages.app
+Photo Booth.app
+Photos.app
+Pixelmator.app
+Preview.app
+Python 3.5
+Python 3.6
+QuickTime Player.app
+RAMDiskCreator.app
+RPG.app
+Reeder.app
+Reminders.app
+Rocket.app
+Safari Technology Preview.app
+Safari.app
+Scroll Reverser.app
+Sequel Pro.app
+Siri.app
+Soulver.app
+Spark.app
+Speedtest.app
+Spotify.app
+Stickies.app
+Sublime Text.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+TmpDisk.app
+Tuxera Disk Manager.app
+Utilities
+VMware Fusion.app
+VeraCrypt.app
+Visual Studio.app
+Wacom Tablet.localized
+WordService.app
+XAMPP
+XMenu.app
+Xamarin Profiler.app
+Xamarin Workbooks.app
+Xee³.app
+_Unused
+iA Writer.app
+iBooks.app
+iTerm.app
+iTunes.app
+nvALT.app
+qbittorrent.app
