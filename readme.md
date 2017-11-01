@@ -20,6 +20,22 @@
 
 ***
 
+#### Remember to copy to a new install
+
+- iA Writer templates
+- Divvy config
+- Keyboard Maestro
+- Dash library
+- XMenu folder
+- iTerm settings
+- Scr: Finder, Pixelmator, menubar, dock
+- Application list
+- Sublime Text settings & packages
+- dot folders from ~/
+- bookmarks from Safari, Chrome and Firefox
+
+***
+
 Print md5 and SHA 256
 
 ```
