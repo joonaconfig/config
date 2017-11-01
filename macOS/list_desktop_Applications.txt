@@ -1,0 +1,131 @@
+Adobe
+Adobe Application Manager
+Adobe Lightroom
+Alfred 3.app
+App Store.app
+AppCleaner.app
+AppPolice.app
+AreenaX.app
+Automator.app
+BBEdit.app
+Backup and Sync.app
+Bartender 2.app
+BetterZip.app
+Blocs.app
+Calculator.app
+Calendar.app
+Chess.app
+Chromium.app
+ColorApp.app
+Commander One.app
+Contacts.app
+Cookie.app
+CotEditor.app
+DDC Panel.app
+DVD Player.app
+DaisyDisk.app
+Dash.app
+Dashboard.app
+Deluge.app
+Dictionary.app
+Discord.app
+Divvy.app
+Doppel.app
+EasyFind.app
+Enpass.app
+Enpass560.app
+EnpassPortable.app
+FaceTime.app
+FileBot.app
+Fileloupe.app
+Final Cut Pro 10-2
+Final Cut Pro.app
+Find Empty Folders.app
+Firefox.app
+Font Book.app
+ForkLift.app
+Franz.app
+GitHub Desktop.app
+GlobalProtect.app
+Google Chrome.app
+Google Drive.app
+HWMonitor.app
+HandBrake.app
+Hands Off!.app
+IINA.app
+Image Capture.app
+ImageOptim.app
+Intel Power Gadget
+JPEGmini Pro.app
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+Keka.app
+Keyboard Maestro.app
+Keynote.app
+LaunchList Sleep.app
+LaunchList_1.app
+LaunchList_2.app
+Launchpad.app
+LittleIpsum.app
+Loading.app
+Locko.app
+MAMP
+Mail.app
+Maps.app
+MenuBar Stats.app
+Messages.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+MiniPlay.app
+Mission Control.app
+NameChanger.app
+Notational Velocity.app
+Notes.app
+Numbers.app
+Pages.app
+Photo Booth.app
+Photos.app
+Pixelmator.app
+Preview.app
+Python 3.6
+QuickTime Player.app
+Quitter.app
+RAMDiskCreator.app
+Reeder.app
+Reminders.app
+RightFont.app
+Safari.app
+Sequel Pro.app
+Siri.app
+Skype.app
+SmoothScroll.app
+Spark.app
+Speedtest.app
+Spotify.app
+Steam.app
+Stickies.app
+Sublime Text.app
+SuperDuper!.app
+Syntra Small.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+TmpDisk.app
+Transmission Remote GUI.app
+Transmission.app
+Trello.app
+Tuxera Disk Manager.app
+Unused
+Utilities
+VMware Fusion.app
+Vienna.app
+XAMPP
+XMenu.app
+Xcode.app
+Xee³.app
+flickrdownloadr
+iA Writer.app
+iBooks.app
+iTerm.app
+iTunes.app

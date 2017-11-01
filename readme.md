@@ -16,7 +16,7 @@
 | Cookie | AppCleaner | Audacity | TextMate |
 | Subler | RPG | Scrivener | iA Writer |
 | Gestimer | Meta | MindNode | MiniPlayer |
-| Mpeg Streamclip | OCRKit | Adobe Lightroom |  |
+| Mpeg Streamclip | OCRKit | Adobe Lightroom | [Karabiner complex](https://pqrs.org/osx/karabiner/complex_modifications/) |
 
 ***
 

@@ -1,0 +1,23 @@
+Affinity Designer.app
+Audacity.app
+Blackmagic Disk Speed Test.app
+Blocs.app
+Gestimer.app
+MPEG Streamclip.app
+Magnet Handler.app
+Meta.app
+MindNode.app
+MiniPlayer.app
+Mionix Hub.app
+Name Mangler.app
+OCRKit.app
+Pixelmator36.app
+RPG.app
+Rocket.app
+Scrivener.app
+Subler.app
+TextMate.app
+UniBeast.app
+_DELETE
+iStat Menus.app
+textsoap8.app
