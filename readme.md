@@ -11,16 +11,17 @@
 | [LittleIpsum](http://dustinsenos.com/littleIpsum) | [Pixelmator](http://www.pixelmator.com/pro/) | [Quitter](http://marco.org/appcasts/Quitter.zip) | [Transmission](https://transmissionbt.com/) |
 | [Sequel Pro](https://www.sequelpro.com/) | [NameChanger](https://mrrsoftware.com/namechanger/) | [Filebot](https://www.filebot.net/) | [Franz](http://meetfranz.com/) |
 | [Github Desktop](https://desktop.github.com/) | HWMonitor | [Divvy](http://mizage.com/divvy/) | [Doppel](https://www.meyersapps.uk/doppel/) |
-| DaisyDisk | DDC Panel | Keka | AreenaX |
-| RamDiskCreator | Xee | VMware Fusion | SuperDuper |
-| Cookie | AppCleaner | Audacity | TextMate |
-| Subler | RPG | Scrivener | iA Writer |
-| Gestimer | Meta | MindNode | MiniPlayer |
-| Mpeg Streamclip | OCRKit | Adobe Lightroom | [Karabiner complex](https://pqrs.org/osx/karabiner/complex_modifications/) |
+| DaisyDisk | [DDC Panel](https://www.tonymacx86.com/threads/controlling-your-monitor-with-osx-ddc-panel.90077/) | [Keka](http://www.kekaosx.com/en/) | AreenaX |
+| [RamDiskCreator](https://bogner.sh/2012/12/os-x-create-a-ram-disk-the-easy-way/) | Xee | VMware Fusion | [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) |
+| Cookie | [AppCleaner](https://freemacsoft.net/appcleaner/) | [Audacity](http://www.audacityteam.org/download/mac/) | [TextMate](https://macromates.com/) |
+| Subler | [RandomPasswordGenerator](http://www.autistici.org/rpg/) | [Scrivener](https://www.literatureandlatte.com/scrivener.php) | [iA Writer](https://ia.net/writer/) |
+| [Gestimer](http://maddin.io/gestimer/) | [Meta](https://www.nightbirdsevolve.com/meta/) | [MindNode](https://mindnode.com/mindnode/mac) | MiniPlayer |
+| [Mpeg Streamclip](http://www.squared5.com/) | OCRKit | Adobe Lightroom | [Karabiner complex](https://pqrs.org/osx/karabiner/complex_modifications/) |
+| [SymbolicLinker](https://github.com/nickzman/symboliclinker/releases) | [HandBrake](https://handbrake.fr/) |  |  |
 
 ***
 
-#### Remember to copy to a new install
+**Remember to copy to a new install**
 
 - iA Writer templates
 - Divvy config
@@ -33,6 +34,14 @@
 - Sublime Text settings & packages
 - dot folders from ~/
 - bookmarks from Safari, Chrome and Firefox
+
+***
+
+**Links**
+
+[Multithreaded Image Conversion and rar/unrar Python 3.2 Scripts and Automator Services](http://polygonspixelsandpaint.tumblr.com/post/15187344510)
+
+Setting python3 as default `sudo cp /usr/local/bin/python3 /usr/bin/python` 
 
 ***
 

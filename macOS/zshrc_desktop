@@ -115,6 +115,14 @@ export NNN_COPIER="/Users/joona/.joona/copier.sh"
 export NNN_DE_FILE_MANAGER="Open"
 export NNN_TMPFILE="/tmp/nnn"
 
+genpass() {
+	a=$(pwgen -Bs "$1" 1)
+	echo $a | pbcopy
+	echo $a
+	echo "Copied to clipboard"
+}
+
+g32() {a=$(pwgen -Bs 32 1); echo $a | pbcopy; echo $a; echo "Copied to clipboard" }
 
 jc() {
 	a=$(md5 -q "$1")
