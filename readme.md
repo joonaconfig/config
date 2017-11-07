@@ -94,16 +94,21 @@ n()
 
 ## Chrome Extensions
 
-- Pin All Tabs
-- Stylish
-- RES
-- Tab Memory Saver
-- Tampermonkey
-- uBlock Origin
-- WhatFont
-- Videostream
-- Linkclump
-- Enpass
-- Decentraleyes
-- Canvas Defender
-- WhatRuns
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+- [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj)
+- [Pin All Tabs](https://chrome.google.com/webstore/detail/pin-all-tabs/ggdflfnbccnnmnejiblifjjgeiepdjop)
+- [Pin Tabs](https://chrome.google.com/webstore/detail/pin-tabs/achoaodpkagkocipghglppnbagjheoni)
+- [Tab Memory Saver](https://chrome.google.com/webstore/detail/tab-memory-saver/pehgadfgejpbgkgkofomjkbgfbnhdfll?hl=en-GB) [source](https://github.com/KyongTsu/TabMemorySaver)
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en-GB)
+- [RES](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb?hl=en-GB)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-GB)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en-GB)
+- [Videostream](https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl)
+- [Enpass](https://chrome.google.com/webstore/detail/enpass-password-manager/kmcfomidfpdkfieipokbalgegidffkal?hl=en-GB)
+- [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en-GB)
+- [Canvas Defender](https://chrome.google.com/webstore/detail/canvas-defender/obdbgnebcljmgkoljcdddaopadkifnpm)
+- [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en-GB)
+- [Back to Backspace](https://chrome.google.com/webstore/detail/back-to-backspace/cldokedgmomhbifmiiogjjkgffhcbaec?hl=en-GB)
+- [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
