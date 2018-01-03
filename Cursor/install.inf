@@ -1,0 +1,55 @@
+﻿;Paste this in a text file and rename it as "Install.inf"
+;Then right-click on the file and select "Install"
+;http://fav.me/d7ca8m
+ 
+[Version]
+signature="$CHICAGO$"
+ 
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+ 
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+ 
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%"
+ 
+; -- Common Information
+ 
+[Scheme.Cur]
+arrow_r.cur
+help_r.cur
+wait_r.cur
+busy_r.cur
+beam_r.cur
+no_r.cur
+size4_r.cur
+size3_r.cur
+size2_r.cur
+size1_r.cur
+move_r.cur
+link_r.cur
+cross_r.cur
+pen_r.cur
+up_r.cur
+ 
+[Strings]
+CUR_DIR       = "Cursors\mini by AKX"
+SCHEME_NAME   = "mini by AKX"
+pointer       = "arrow_r.cur"
+help          = "help_r.cur"
+work          = "wait_r.cur"
+busy          = "busy_r.cur"
+text          = "beam_r.cur"
+unavailiable  = "no_r.cur"
+vert          = "size4_r.cur"
+horz          = "size3_r.cur"
+dgn1          = "size2_r.cur"
+dgn2          = "size1_r.cur"
+move          = "move_r.cur"
+link          = "link_r.cur"
+cross         = "cross_r.cur"
+hand          = "pen_r.cur"
+alternate     = "up_r.cur"
