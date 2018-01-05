@@ -12,12 +12,12 @@
 | [Sequel Pro](https://www.sequelpro.com/) | [NameChanger](https://mrrsoftware.com/namechanger/) | [Filebot](https://www.filebot.net/) | [Franz](http://meetfranz.com/) |
 | [Github Desktop](https://desktop.github.com/) | HWMonitor | [Divvy](http://mizage.com/divvy/) | [Doppel](https://www.meyersapps.uk/doppel/) |
 | DaisyDisk | [DDC Panel](https://www.tonymacx86.com/threads/controlling-your-monitor-with-osx-ddc-panel.90077/) | [Keka](http://www.kekaosx.com/en/) | AreenaX |
-| [RamDiskCreator](https://bogner.sh/2012/12/os-x-create-a-ram-disk-the-easy-way/) | Xee | VMware Fusion | [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) |
+| [RamDiskCreator](https://bogner.sh/2012/12/os-x-create-a-ram-disk-the-easy-way/) | [Xee](https://github.com/CocoaBob/xee) | VMware Fusion | [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) |
 | Cookie | [AppCleaner](https://freemacsoft.net/appcleaner/) | [Audacity](http://www.audacityteam.org/download/mac/) | [TextMate](https://macromates.com/) |
 | Subler | [RandomPasswordGenerator](http://www.autistici.org/rpg/) | [Scrivener](https://www.literatureandlatte.com/scrivener.php) | [iA Writer](https://ia.net/writer/) |
 | [Gestimer](http://maddin.io/gestimer/) | [Meta](https://www.nightbirdsevolve.com/meta/) | [MindNode](https://mindnode.com/mindnode/mac) | MiniPlayer |
 | [Mpeg Streamclip](http://www.squared5.com/) | OCRKit | Adobe Lightroom | [Karabiner complex](https://pqrs.org/osx/karabiner/complex_modifications/) |
-| [SymbolicLinker](https://github.com/nickzman/symboliclinker/releases) | [HandBrake](https://handbrake.fr/) |  |  |
+| [SymbolicLinker](https://github.com/nickzman/symboliclinker/releases) | [HandBrake](https://handbrake.fr/) | [MenuMeters](https://github.com/yujitach/MenuMeters) | [Github Desktop](https://desktop.github.com) |
 
 ***
 
@@ -29,7 +29,7 @@
 - Dash library
 - XMenu folder
 - iTerm settings
-- Scr: Finder, Pixelmator, menubar, dock
+- Scr: Finder, menubar, dock
 - Application list
 - Sublime Text settings & packages
 - dot folders from ~/
